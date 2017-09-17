@@ -1,5 +1,7 @@
+package com.zuolizhu.labelingVariable
+
 fun main(args: Array<String>) {
-    area(height = 20 ,width = 10)
+    area(height = 20, width = 10)
 }
 
 fun area(width: Int, height: Int) {
