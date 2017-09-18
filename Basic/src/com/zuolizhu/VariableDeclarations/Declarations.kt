@@ -20,7 +20,7 @@ fun main(args: Array<String>) {
         employee2 = Employee("Good Name", 100)
     }
 
-    
+
 }
 
 class Employee(var name: String, val id: Int) {
