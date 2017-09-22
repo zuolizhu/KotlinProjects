@@ -23,6 +23,12 @@ fun main(args: Array<String>) {
 
 }
 
+/**
+ * Type Aliases in Kotlin
+ */
+
+
+
 class Employee(var name: String, val id: Int) {
 
 }
